@@ -1,5 +1,5 @@
 <h2>BRNN Results</h2>
-<img width="602" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/b3ce9477-bdac-488d-956e-555befcaf8c9">
+<img width="743" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/d0b2c1cf-8841-4d5f-8dca-a6f30a55f353">
 
 <h2>N-BEATS Results</h2>
 <img width="721" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/d1e6adc5-40aa-4734-ab6a-c6ecea2c85d8">
