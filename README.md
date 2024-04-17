@@ -1,3 +1,9 @@
+<h2>Model Comparison of Backtest with 1day and 10days</h2>
+<img width="806" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/e0c2709f-514e-4947-aa8a-a551a9561742">
+<img width="809" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/323638da-2f50-4415-85fd-233459300ebc">
+<img width="740" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/24442538-231f-45aa-93da-301e0220a7a5">
+
+
 <h2>BRNN Results</h2>
 <img width="743" alt="image" src="https://github.com/EunjinAn/TimeSeries_Project/assets/112074208/d0b2c1cf-8841-4d5f-8dca-a6f30a55f353">
 
